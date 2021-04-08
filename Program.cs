@@ -11,7 +11,7 @@ namespace W3_Recursion
         static void Main(string[] args) {
             //recursiveCount();
             //backCount(100);
-            Console.WriteLine(sumNums(3));
+            Console.WriteLine(sumNums(4, 0));
         }
 
         // Write a program in C# Sharp to print numbers from n to 1 using recursion.
@@ -31,13 +31,13 @@ namespace W3_Recursion
         }
 
         //Write a program in C# Sharp to find the sum of first n natural numbers using recursion.
-        static int sumNums(int i) {
-            int sum = 0;
-
-            if (i > 0)
-                sum += sumNums(i--);
-
-            return sum;
+        static int sumNums(int i, int sum) {
+           
+            if (i == 0) {
+                return sum;
+            }
+            sum += i;
+            return sumNums(--i, sum);
         }
 
     }
