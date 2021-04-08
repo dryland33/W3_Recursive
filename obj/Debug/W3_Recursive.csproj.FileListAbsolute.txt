@@ -1,0 +1,7 @@
+C:\Users\Rylan\Documents\PerScholas\c#\W3_Recursive\bin\Debug\W3_Recursive.exe.config
+C:\Users\Rylan\Documents\PerScholas\c#\W3_Recursive\bin\Debug\W3_Recursive.exe
+C:\Users\Rylan\Documents\PerScholas\c#\W3_Recursive\bin\Debug\W3_Recursive.pdb
+C:\Users\Rylan\Documents\PerScholas\c#\W3_Recursive\obj\Debug\W3_Recursive.csprojAssemblyReference.cache
+C:\Users\Rylan\Documents\PerScholas\c#\W3_Recursive\obj\Debug\W3_Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Rylan\Documents\PerScholas\c#\W3_Recursive\obj\Debug\W3_Recursive.exe
+C:\Users\Rylan\Documents\PerScholas\c#\W3_Recursive\obj\Debug\W3_Recursive.pdb
